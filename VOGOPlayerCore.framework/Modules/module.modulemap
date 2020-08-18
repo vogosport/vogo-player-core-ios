@@ -1,0 +1,11 @@
+framework module VOGOPlayerCore {
+  umbrella header "VOGOPlayerCore.h"
+
+  export *
+  module * { export * }
+}
+
+module VOGOPlayerCore.Swift {
+    header "VOGOPlayerCore-Swift.h"
+    requires objc
+}
