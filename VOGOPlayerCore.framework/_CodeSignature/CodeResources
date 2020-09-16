@@ -34,7 +34,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		xVkAgIsGw/ttAee4W2ql8E2mF/k=
+		Ctue+A+tWdZZTCz1wAXNrX0MAbA=
 		</data>
 		<key>Modules/VOGOPlayerCore.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/VOGOPlayerCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		o3Xn9ITiCMsc9Lu2uZaYofL9REI=
+		EwHkbxIFv79k2c/Ke1Y26JW4V1M=
 		</data>
 		<key>Modules/VOGOPlayerCore.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/VOGOPlayerCore.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		o3Xn9ITiCMsc9Lu2uZaYofL9REI=
+		EwHkbxIFv79k2c/Ke1Y26JW4V1M=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -204,11 +204,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			o3Xn9ITiCMsc9Lu2uZaYofL9REI=
+			EwHkbxIFv79k2c/Ke1Y26JW4V1M=
 			</data>
 			<key>hash2</key>
 			<data>
-			2JH6WbWylUsBupuId/UI/pGuEJyPr0g1oZVnGs95xMA=
+			Yjy4Cqq2OLfgZd3T608H98h7aSs8ztJRegQg6/nQDJ8=
 			</data>
 		</dict>
 		<key>Modules/VOGOPlayerCore.swiftmodule/x86_64.swiftdoc</key>
@@ -237,11 +237,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			o3Xn9ITiCMsc9Lu2uZaYofL9REI=
+			EwHkbxIFv79k2c/Ke1Y26JW4V1M=
 			</data>
 			<key>hash2</key>
 			<data>
-			2JH6WbWylUsBupuId/UI/pGuEJyPr0g1oZVnGs95xMA=
+			Yjy4Cqq2OLfgZd3T608H98h7aSs8ztJRegQg6/nQDJ8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
