@@ -26,7 +26,7 @@
 		</data>
 		<key>Headers/VOGOPlayerCore-Swift.h</key>
 		<data>
-		m77vYAL/dDf3tpYsCUYb4EuIPQY=
+		UqeYdT3ovHS6X5fGqCAcg9NmL3o=
 		</data>
 		<key>Headers/VOGOPlayerCore.h</key>
 		<data>
@@ -34,39 +34,87 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Ctue+A+tWdZZTCz1wAXNrX0MAbA=
+		OWkuL83OxGQ2UzOPKfIuBfTtSFY=
 		</data>
-		<key>Modules/VOGOPlayerCore.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/VOGOPlayerCore.swiftmodule/Project/arm.swiftsourceinfo</key>
 		<data>
-		xsXqr0CyTo0oUR40DaLyv8Ke7N4=
+		QOZH7qbKklfDEhO9OEOmmX8PjXQ=
 		</data>
-		<key>Modules/VOGOPlayerCore.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<key>Modules/VOGOPlayerCore.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		xsXqr0CyTo0oUR40DaLyv8Ke7N4=
+		RQSvf6OsmFAQ3oX83FE6F9Sx8Q8=
 		</data>
-		<key>Modules/VOGOPlayerCore.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/VOGOPlayerCore.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		hNZeQ/ZFHq7nIxMFbS/qFV2oFvs=
+		RQSvf6OsmFAQ3oX83FE6F9Sx8Q8=
 		</data>
-		<key>Modules/VOGOPlayerCore.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/VOGOPlayerCore.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
 		<data>
-		fuF0aCzSUzwJJn806S0tZWzYKZM=
+		QOZH7qbKklfDEhO9OEOmmX8PjXQ=
 		</data>
-		<key>Modules/VOGOPlayerCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/VOGOPlayerCore.swiftmodule/Project/armv7.swiftsourceinfo</key>
 		<data>
-		EwHkbxIFv79k2c/Ke1Y26JW4V1M=
+		QOZH7qbKklfDEhO9OEOmmX8PjXQ=
 		</data>
-		<key>Modules/VOGOPlayerCore.swiftmodule/x86_64.swiftdoc</key>
+		<key>Modules/VOGOPlayerCore.swiftmodule/arm.swiftdoc</key>
 		<data>
-		hNZeQ/ZFHq7nIxMFbS/qFV2oFvs=
+		vHpcgGh35CL39T87PZHL7mKAk+s=
 		</data>
-		<key>Modules/VOGOPlayerCore.swiftmodule/x86_64.swiftinterface</key>
+		<key>Modules/VOGOPlayerCore.swiftmodule/arm.swiftinterface</key>
 		<data>
-		fuF0aCzSUzwJJn806S0tZWzYKZM=
+		q9agiegbu0Ybc948EozgpJTqCFE=
 		</data>
-		<key>Modules/VOGOPlayerCore.swiftmodule/x86_64.swiftmodule</key>
+		<key>Modules/VOGOPlayerCore.swiftmodule/arm.swiftmodule</key>
 		<data>
-		EwHkbxIFv79k2c/Ke1Y26JW4V1M=
+		vOn+pr/9ktxngpEwVdSFQ7wQ/tc=
+		</data>
+		<key>Modules/VOGOPlayerCore.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<data>
+		HdXV5qubM3WdGVP+OeAYKkGVD7M=
+		</data>
+		<key>Modules/VOGOPlayerCore.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		YbLZjV+zazxx39k5SNWyamdyj08=
+		</data>
+		<key>Modules/VOGOPlayerCore.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<data>
+		roIwzhKBvtjXaWA/gVZW8CSOchA=
+		</data>
+		<key>Modules/VOGOPlayerCore.swiftmodule/arm64.swiftdoc</key>
+		<data>
+		HdXV5qubM3WdGVP+OeAYKkGVD7M=
+		</data>
+		<key>Modules/VOGOPlayerCore.swiftmodule/arm64.swiftinterface</key>
+		<data>
+		YbLZjV+zazxx39k5SNWyamdyj08=
+		</data>
+		<key>Modules/VOGOPlayerCore.swiftmodule/arm64.swiftmodule</key>
+		<data>
+		roIwzhKBvtjXaWA/gVZW8CSOchA=
+		</data>
+		<key>Modules/VOGOPlayerCore.swiftmodule/armv7-apple-ios.swiftdoc</key>
+		<data>
+		vHpcgGh35CL39T87PZHL7mKAk+s=
+		</data>
+		<key>Modules/VOGOPlayerCore.swiftmodule/armv7-apple-ios.swiftinterface</key>
+		<data>
+		q9agiegbu0Ybc948EozgpJTqCFE=
+		</data>
+		<key>Modules/VOGOPlayerCore.swiftmodule/armv7-apple-ios.swiftmodule</key>
+		<data>
+		vOn+pr/9ktxngpEwVdSFQ7wQ/tc=
+		</data>
+		<key>Modules/VOGOPlayerCore.swiftmodule/armv7.swiftdoc</key>
+		<data>
+		vHpcgGh35CL39T87PZHL7mKAk+s=
+		</data>
+		<key>Modules/VOGOPlayerCore.swiftmodule/armv7.swiftinterface</key>
+		<data>
+		q9agiegbu0Ybc948EozgpJTqCFE=
+		</data>
+		<key>Modules/VOGOPlayerCore.swiftmodule/armv7.swiftmodule</key>
+		<data>
+		vOn+pr/9ktxngpEwVdSFQ7wQ/tc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -138,11 +186,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			m77vYAL/dDf3tpYsCUYb4EuIPQY=
+			UqeYdT3ovHS6X5fGqCAcg9NmL3o=
 			</data>
 			<key>hash2</key>
 			<data>
-			skKvBfhSg4f4yJbVNFY51X4y/uBadI7PHiz/zGMAZKE=
+			Yt+JrnxPsM6+7Gam0jg1quTVbGJJHD8/61uk+maj3c0=
 			</data>
 		</dict>
 		<key>Headers/VOGOPlayerCore.h</key>
@@ -156,92 +204,224 @@
 			cXqtO0Jgaa0UgmU6vSozK2vrq7bKaC/dq3OqhU1fh6c=
 			</data>
 		</dict>
-		<key>Modules/VOGOPlayerCore.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/VOGOPlayerCore.swiftmodule/Project/arm.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xsXqr0CyTo0oUR40DaLyv8Ke7N4=
+			QOZH7qbKklfDEhO9OEOmmX8PjXQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			fBOMpS28avVs2ky7qFdpSZG1Fxhj8OF0TDjebVt9fBc=
+			k0RJWqBqnCyPfPdZ2BE39JjrF3lYQvr+KwmvtCofRps=
 			</data>
 		</dict>
-		<key>Modules/VOGOPlayerCore.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<key>Modules/VOGOPlayerCore.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xsXqr0CyTo0oUR40DaLyv8Ke7N4=
+			RQSvf6OsmFAQ3oX83FE6F9Sx8Q8=
 			</data>
 			<key>hash2</key>
 			<data>
-			fBOMpS28avVs2ky7qFdpSZG1Fxhj8OF0TDjebVt9fBc=
+			j7QP+F9bmh8ZLNZVrSsk6npJz6EsigSo9DCRQ3UL6cM=
 			</data>
 		</dict>
-		<key>Modules/VOGOPlayerCore.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/VOGOPlayerCore.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hNZeQ/ZFHq7nIxMFbS/qFV2oFvs=
+			RQSvf6OsmFAQ3oX83FE6F9Sx8Q8=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZU0SKT+/kn/6gQP0v0IlvlFFfgyHzmzxHatHg0ugY9w=
+			j7QP+F9bmh8ZLNZVrSsk6npJz6EsigSo9DCRQ3UL6cM=
 			</data>
 		</dict>
-		<key>Modules/VOGOPlayerCore.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/VOGOPlayerCore.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fuF0aCzSUzwJJn806S0tZWzYKZM=
+			QOZH7qbKklfDEhO9OEOmmX8PjXQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			XbYfssdt4/lexbYdAMC1nUfFgEXWSxeF0UhGgxfe1lY=
+			k0RJWqBqnCyPfPdZ2BE39JjrF3lYQvr+KwmvtCofRps=
 			</data>
 		</dict>
-		<key>Modules/VOGOPlayerCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/VOGOPlayerCore.swiftmodule/Project/armv7.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EwHkbxIFv79k2c/Ke1Y26JW4V1M=
+			QOZH7qbKklfDEhO9OEOmmX8PjXQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			Yjy4Cqq2OLfgZd3T608H98h7aSs8ztJRegQg6/nQDJ8=
+			k0RJWqBqnCyPfPdZ2BE39JjrF3lYQvr+KwmvtCofRps=
 			</data>
 		</dict>
-		<key>Modules/VOGOPlayerCore.swiftmodule/x86_64.swiftdoc</key>
+		<key>Modules/VOGOPlayerCore.swiftmodule/arm.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hNZeQ/ZFHq7nIxMFbS/qFV2oFvs=
+			vHpcgGh35CL39T87PZHL7mKAk+s=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZU0SKT+/kn/6gQP0v0IlvlFFfgyHzmzxHatHg0ugY9w=
+			2Bj/Rsbii5w0U6N5qXKe13vJ70KPvyY42ObnYzLUEUM=
 			</data>
 		</dict>
-		<key>Modules/VOGOPlayerCore.swiftmodule/x86_64.swiftinterface</key>
+		<key>Modules/VOGOPlayerCore.swiftmodule/arm.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fuF0aCzSUzwJJn806S0tZWzYKZM=
+			q9agiegbu0Ybc948EozgpJTqCFE=
 			</data>
 			<key>hash2</key>
 			<data>
-			XbYfssdt4/lexbYdAMC1nUfFgEXWSxeF0UhGgxfe1lY=
+			qI2AyvELjnOqu2W6YVNdGpBl5GKBtx25BouVBBG0jpA=
 			</data>
 		</dict>
-		<key>Modules/VOGOPlayerCore.swiftmodule/x86_64.swiftmodule</key>
+		<key>Modules/VOGOPlayerCore.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EwHkbxIFv79k2c/Ke1Y26JW4V1M=
+			vOn+pr/9ktxngpEwVdSFQ7wQ/tc=
 			</data>
 			<key>hash2</key>
 			<data>
-			Yjy4Cqq2OLfgZd3T608H98h7aSs8ztJRegQg6/nQDJ8=
+			WYCrUPFwV3cFtfE3XzgNGgLZwHKMeSLXPsockrKTjxc=
+			</data>
+		</dict>
+		<key>Modules/VOGOPlayerCore.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HdXV5qubM3WdGVP+OeAYKkGVD7M=
+			</data>
+			<key>hash2</key>
+			<data>
+			TYHviRP9oaAWrv2tedwJ5coy3TPVlNn+YwtlxbaxeVw=
+			</data>
+		</dict>
+		<key>Modules/VOGOPlayerCore.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YbLZjV+zazxx39k5SNWyamdyj08=
+			</data>
+			<key>hash2</key>
+			<data>
+			az8wYGPFciRzZd40g7mSlqsjpvB2Ev99FNeRXFCY0as=
+			</data>
+		</dict>
+		<key>Modules/VOGOPlayerCore.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			roIwzhKBvtjXaWA/gVZW8CSOchA=
+			</data>
+			<key>hash2</key>
+			<data>
+			V89B4d8dnulDTT+lt4zFH3KsvXCBBOWLPHsiOUcwle4=
+			</data>
+		</dict>
+		<key>Modules/VOGOPlayerCore.swiftmodule/arm64.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HdXV5qubM3WdGVP+OeAYKkGVD7M=
+			</data>
+			<key>hash2</key>
+			<data>
+			TYHviRP9oaAWrv2tedwJ5coy3TPVlNn+YwtlxbaxeVw=
+			</data>
+		</dict>
+		<key>Modules/VOGOPlayerCore.swiftmodule/arm64.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YbLZjV+zazxx39k5SNWyamdyj08=
+			</data>
+			<key>hash2</key>
+			<data>
+			az8wYGPFciRzZd40g7mSlqsjpvB2Ev99FNeRXFCY0as=
+			</data>
+		</dict>
+		<key>Modules/VOGOPlayerCore.swiftmodule/arm64.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			roIwzhKBvtjXaWA/gVZW8CSOchA=
+			</data>
+			<key>hash2</key>
+			<data>
+			V89B4d8dnulDTT+lt4zFH3KsvXCBBOWLPHsiOUcwle4=
+			</data>
+		</dict>
+		<key>Modules/VOGOPlayerCore.swiftmodule/armv7-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vHpcgGh35CL39T87PZHL7mKAk+s=
+			</data>
+			<key>hash2</key>
+			<data>
+			2Bj/Rsbii5w0U6N5qXKe13vJ70KPvyY42ObnYzLUEUM=
+			</data>
+		</dict>
+		<key>Modules/VOGOPlayerCore.swiftmodule/armv7-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			q9agiegbu0Ybc948EozgpJTqCFE=
+			</data>
+			<key>hash2</key>
+			<data>
+			qI2AyvELjnOqu2W6YVNdGpBl5GKBtx25BouVBBG0jpA=
+			</data>
+		</dict>
+		<key>Modules/VOGOPlayerCore.swiftmodule/armv7-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vOn+pr/9ktxngpEwVdSFQ7wQ/tc=
+			</data>
+			<key>hash2</key>
+			<data>
+			WYCrUPFwV3cFtfE3XzgNGgLZwHKMeSLXPsockrKTjxc=
+			</data>
+		</dict>
+		<key>Modules/VOGOPlayerCore.swiftmodule/armv7.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vHpcgGh35CL39T87PZHL7mKAk+s=
+			</data>
+			<key>hash2</key>
+			<data>
+			2Bj/Rsbii5w0U6N5qXKe13vJ70KPvyY42ObnYzLUEUM=
+			</data>
+		</dict>
+		<key>Modules/VOGOPlayerCore.swiftmodule/armv7.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			q9agiegbu0Ybc948EozgpJTqCFE=
+			</data>
+			<key>hash2</key>
+			<data>
+			qI2AyvELjnOqu2W6YVNdGpBl5GKBtx25BouVBBG0jpA=
+			</data>
+		</dict>
+		<key>Modules/VOGOPlayerCore.swiftmodule/armv7.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vOn+pr/9ktxngpEwVdSFQ7wQ/tc=
+			</data>
+			<key>hash2</key>
+			<data>
+			WYCrUPFwV3cFtfE3XzgNGgLZwHKMeSLXPsockrKTjxc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
